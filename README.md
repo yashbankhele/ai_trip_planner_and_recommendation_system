@@ -193,11 +193,12 @@ For questions or suggestions, please open an Issue in this repository.
 
 ---
 
-# Maintainer
+## 👨‍💻 Maintainer
 
-**Shrish Bankhele**
+**Yash Bankhele**
 
-Bachelor of Engineering (Artificial Intelligence & Data Science)
+ B.E. AI & Data Science | Python Developer | Data Analytics
+
 
 ---
 
